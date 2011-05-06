@@ -10,7 +10,6 @@ Install
     mkdir ~/.weinre/extensions
     cd ~/.weinre/extensions    
     git clone git@github.com:pmuellr/weinre-ext-sample.git
-    (restart your weinre server)
     
 Programming
 ===========
